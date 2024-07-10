@@ -205,3 +205,56 @@ background-color: #fff;
 #insvid{
     border-radius: 16px;
 }
+.text-center{
+    text-align: center;
+}
+.current-target{
+    width: 70%;
+    margin: 0 auto;
+}
+.targets-container{
+    display: flex;
+    gap: 5px;
+}
+.section-title{
+    font-size: 32px;
+    font-weight: 800;
+}
+.target{
+    padding: 20px;
+    
+    border-radius: 16px;
+    height: 300px;
+    margin: 10px;
+
+background: rgba(255, 76, 30, 0.05);
+}
+#bg-2{
+    background: rgba(0, 76, 232, 0.05); 
+}
+.target-title{
+    font-size: 24px;
+font-weight: 800;
+margin: 10px;
+}
+.target-description{
+    color: rgb(13, 19, 33);
+
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
+margin: 40px 0px;
+}
+.more{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 700;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: left;
+text-decoration-line: underline;
+padding: 10px;
+}
